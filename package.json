@@ -1,0 +1,29 @@
+{
+  "name": "dev-aaronorellana",
+  "version": "1.0.0",
+  "description": "Un theme avec le framework foundationpress.",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronorellana/dev-aaronorellana.git"
+  },
+  "keywords": [
+    "Foundationpress",
+    "wordpress",
+    "node",
+    "js",
+    "gulp",
+    "scss",
+    "foundation",
+    "aaronorellana"
+  ],
+  "author": "Aaron Orellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronorellana/dev-aaronorellana/issues"
+  },
+  "homepage": "https://github.com/aaronorellana/dev-aaronorellana#readme"
+}
